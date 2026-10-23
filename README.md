@@ -1,6 +1,6 @@
 # Alien Invasion
 
-A space invaders style game built in python and pygame
+A space invaders style game built in Python and Pygame
 
 ## What it does
 - Shoot bullets
@@ -9,8 +9,8 @@ A space invaders style game built in python and pygame
 - Level progressions
 
 ## Run it
-pip install pygame
-python alien_invasion.py
+`pip install pygame`
+`python alien_invasion.py`
 
 ## Credit
 Built while following **Python Crash Course** by Eric Mathess, with my own additions
