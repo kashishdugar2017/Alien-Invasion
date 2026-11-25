@@ -5,7 +5,7 @@ A space invaders style game built in Python and Pygame
 ## What it does
 - Shoot bullets
 - Score + high score tracking
-- lifes
+- lives
 - Level progressions
 
 ## Run it
